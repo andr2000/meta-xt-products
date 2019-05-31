@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="andr2000/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="pr_h3ulcb_es3" revision="pr_h3ulcb_es3" />
-    <project name="andr2000/meta-xt-images" path="meta-xt-images" upstream="pr_h3ulcb_es3" revision="pr_h3ulcb_es3" />
-    <project name="andr2000/xt-distro" path="xt-distro" upstream="pr_h3ulcb_es3" revision="pr_h3ulcb_es3" />
+    <project name="andr2000/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="pr_h3ulcb_es3_kf" revision="pr_h3ulcb_es3_kf" />
+    <project name="andr2000/meta-xt-images" path="meta-xt-images" upstream="pr_h3ulcb_es3_kf" revision="pr_h3ulcb_es3_kf" />
+    <project name="andr2000/xt-distro" path="xt-distro" upstream="pr_h3ulcb_es3_kf" revision="pr_h3ulcb_es3_kf" />
 </manifest>
